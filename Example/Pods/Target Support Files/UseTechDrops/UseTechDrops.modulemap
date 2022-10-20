@@ -1,0 +1,6 @@
+framework module UseTechDrops {
+  umbrella header "UseTechDrops-umbrella.h"
+
+  export *
+  module * { export * }
+}

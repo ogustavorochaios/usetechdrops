@@ -1,0 +1,16 @@
+PODS:
+  - UseTechDrops (1.0.0)
+
+DEPENDENCIES:
+  - UseTechDrops (from `..`)
+
+EXTERNAL SOURCES:
+  UseTechDrops:
+    :path: ".."
+
+SPEC CHECKSUMS:
+  UseTechDrops: 05e252a608bb7804520081dbcaf4a0fe87f417bb
+
+PODFILE CHECKSUM: f28835f9f6d679610d763a90790654c18b180c46
+
+COCOAPODS: 1.11.3
